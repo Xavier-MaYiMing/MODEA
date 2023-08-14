@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![Pareto front](/Users/xavier/Desktop/Xavier Ma/个人算法主页/MODEA/Pareto front.png)
+![](https://github.com/Xavier-MaYiMing/MODEA/blob/main/Pareto%20front.png)
 
 ```python
 Iteration 20 completed.
